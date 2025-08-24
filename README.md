@@ -71,7 +71,7 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=gonzalorportfolio&show_icons=true&theme=dark&hide_rank=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalorportfolio&layout=compact&theme=dark)
-![Streak](https://streak-stats.demolab.com?user=gonzalorportfolio&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gonzalorportfolio)](https://git.io/streak-stats)
 
 ---
 
